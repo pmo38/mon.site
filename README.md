@@ -1,6 +1,7 @@
 # mon.site
 mes métiers : 
-ingénieur informaticien, intégration gestion de configuration du logiciel
+ingénieur informaticien, intégration gestion de configuration du logiciel;
+
 professeur mathématiques
 
 mes CV filtrés en fonction des deux métiers ci-dessus.
